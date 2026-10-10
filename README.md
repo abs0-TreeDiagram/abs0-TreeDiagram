@@ -9,6 +9,8 @@
     - 2023.5 - China High School Biology Olympiad, provincial first prize
     - 2024.6 - Merit Graduate of BHSF
 
+- **Beijing Xuanwu Foreign Language Experimental School** (2018.9 - 2021.6, junior high)
+
 <!--
 **abs0-TreeDiagram/abs0-TreeDiagram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
