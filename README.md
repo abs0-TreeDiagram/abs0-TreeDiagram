@@ -1,4 +1,13 @@
-## Hi there 👋
+## My Education
+
+- **Beijing Institute of Technology (BIT)** (2024.9 - Now, undergraduate)
+  - Major: Mathematics and Applied Mathematics (Top-notch project)
+  - Minor: Artificial Intelligence
+ 
+- **Beijing No.4 High School (BHSF)** (2021.9 - 2024.6, senior high)
+  - Awards and Honor
+    - 2023.5 - China High School Biology Olympiad, provincial first prize
+    - 2024.6 - Merit Graduate of BHSF
 
 <!--
 **abs0-TreeDiagram/abs0-TreeDiagram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
